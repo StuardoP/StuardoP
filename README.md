@@ -1,78 +1,56 @@
-# Hi, I'm Stuardo Pacheco 👋
+# Hi, I'm Herbert Stuardo Pacheco 👋
 
 ### Junior Software Developer | Systems Engineering Student
 
-I'm an eighth-semester Systems Engineering student from Guatemala. I build practical applications with **Java, Python, SQL and web technologies**, with a growing focus on backend development and cloud computing.
+I'm an eighth-semester Systems Engineering student from Guatemala focused on building reliable web applications, REST APIs, relational databases and cloud solutions. I enjoy turning requirements into clean, tested software and I am currently open to junior and remote opportunities in software development, databases and IT support.
 
-- 🎯 Open to remote junior opportunities in software development, web development, databases and IT support
-- ☁️ Certified in **AWS Fundamentals: Cloud, Serverless and Operations** by Commit Academy
-- 🧠 Interested in clean code, data-driven applications and useful products
-- 🌎 Based in Guatemala
+## Featured projects
 
-## Technical Skills
+### [TaskFlow](https://github.com/StuardoP/taskflow)
 
-| Area | Technologies and concepts |
-| --- | --- |
-| Languages | Java, Python, JavaScript, SQL |
-| Web | HTML5, CSS3, JavaScript |
-| Databases | Oracle, relational design, CRUD operations and SQL queries |
-| Cloud | AWS fundamentals, cloud computing, serverless and operations |
-| Tools | Git, GitHub, Maven, Linux, Windows |
-| Fundamentals | OOP, data structures, algorithms, testing and problem solving |
+Full-stack task management dashboard with a Python REST API, SQLite persistence and a responsive JavaScript interface. Includes CRUD operations, search, filters, validation and automated integration tests.
 
-## Featured Projects
+`Python` `SQLite` `REST API` `JavaScript` `HTML5` `CSS3` `Testing`
 
-### 🏋️ Gym Tracker
-Web application for tracking workouts, exercises, weights, repetitions, routines and training progress.
+### [AWS Serverless Expense Tracker](https://github.com/StuardoP/aws-serverless-expense-tracker)
 
-**Focus:** Java, Maven, web development, user accounts and progress tracking.
+Cloud-native expense API defined with AWS SAM. It combines API Gateway, Python Lambda functions, DynamoDB, least-privilege IAM permissions, structured logging and unit-tested domain logic.
 
-> Repository coming soon.
+`AWS Lambda` `API Gateway` `DynamoDB` `SAM` `IAM` `Python`
 
-### 🌎 Fluentify
-English-learning platform designed around CEFR levels A1–C2, including vocabulary, grammar, listening, speaking, reading, writing, spaced repetition and progress tracking.
+### [Oracle Business Database](https://github.com/StuardoP/sql-oracle-business)
 
-**Focus:** Educational software, web development, UX/UI and product architecture.
+Normalized relational database for customers, inventory, products, orders and deliveries, including constraints, sample data, transactional operations and analytical business queries.
 
-> Repository coming soon.
+`Oracle SQL` `Data Modeling` `DDL` `DML` `Joins` `Transactions`
 
-### 🥩 CarnesWeb
-Multi-page restaurant website featuring a menu, reservation form, promotions, events, location and contact sections.
+### [CarnesWeb](https://github.com/StuardoP/CarnesWebFin)
 
-**Tech:** HTML5, CSS3
+Responsive multi-page restaurant website with menu, reservations, promotions, events, location and contact sections.
 
-[View project](https://github.com/StuardoP/CarnesWebFin)
+`HTML5` `CSS3` `Responsive Design`
 
-### 🗃️ SQL and Oracle Projects
-Relational database exercises and projects involving table design, primary and foreign keys, SQL queries and CRUD operations.
+## Technical skills
 
-> Repository coming soon.
-
-## Currently Learning
-
-- Advanced Java
-- Python development
-- SQL and database design
-- Backend development
-- AWS cloud services and serverless architecture
-- Git and GitHub workflows
-- Modern web development
+- **Languages:** Java, Python, JavaScript and SQL
+- **Web:** HTML5, CSS3, responsive interfaces and REST APIs
+- **Databases:** Oracle, SQLite, relational modeling, CRUD and analytical queries
+- **Cloud:** AWS Lambda, API Gateway, DynamoDB, SAM, IAM and serverless architecture
+- **Tools:** Git, GitHub, Maven, Linux and Windows
+- **Foundations:** OOP, data structures, algorithms, testing and problem solving
 
 ## Certification
 
-**AWS Fundamentals: Cloud, Serverless and Operations**  
-Commit Academy · Completed September 2026
+- **AWS Fundamentals: Cloud, Serverless and Operations** — Commit Academy, September 2026
 
-## Goals
+## Current goals
 
-- Build production-style portfolio projects
-- Improve backend and database skills
-- Contribute to open-source projects
-- Get my first remote junior software development opportunity
+- Build production-style projects with clean architecture and automated tests
+- Deepen my Java, Python, SQL and AWS skills
+- Contribute to a development team in a junior or remote role
 
-## Let's Connect
+## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stuardo_Pacheco-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/stuardopacheco)
-[![GitHub](https://img.shields.io/badge/GitHub-StuardoP-181717?style=flat-square&logo=github)](https://github.com/StuardoP)
+- [LinkedIn](https://linkedin.com/in/stuardopacheco)
+- [GitHub](https://github.com/StuardoP)
 
-> Open to remote junior opportunities and collaboration on practical software projects.
