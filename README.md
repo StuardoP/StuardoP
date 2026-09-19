@@ -24,6 +24,12 @@ Normalized relational database for customers, inventory, products, orders and de
 
 `Oracle SQL` `Data Modeling` `DDL` `DML` `Joins` `Transactions`
 
+### [Java Gym Tracker](https://github.com/StuardoP/java-gym-tracker)
+
+Java 17 strength-training tracker with layered architecture, CSV persistence, workout history, training-volume statistics, estimated personal records and dependency-free automated tests.
+
+`Java 17` `OOP` `Maven` `Streams` `File Persistence` `Testing`
+
 ### [CarnesWeb](https://github.com/StuardoP/CarnesWebFin)
 
 Responsive multi-page restaurant website with menu, reservations, promotions, events, location and contact sections.
@@ -53,4 +59,3 @@ Responsive multi-page restaurant website with menu, reservations, promotions, ev
 
 - [LinkedIn](https://linkedin.com/in/stuardopacheco)
 - [GitHub](https://github.com/StuardoP)
-
